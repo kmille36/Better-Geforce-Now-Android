@@ -12,4 +12,4 @@ Make GFN great again!
   <img src="Screenshot_2026-03-19-05-20-05-269_com.zortos.opennow.jpg" width="24%" />
 </p>
 
-# V2 Uploaded! Check it out in release tab!
+# V2 Uploaded! Check it out in releases section!
