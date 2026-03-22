@@ -18,3 +18,4 @@ Make GFN great again!
 
 # TO-DO:
 - Clipboard support!
+- Lock mouse cursors!
