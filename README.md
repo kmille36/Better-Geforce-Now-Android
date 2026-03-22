@@ -16,5 +16,5 @@ Make GFN great again!
 
 - 22/3/2026 updated: mirror bugs fix and tons of improvement about streaming performance.
 
-* TO-DO:
- - Clipboard support!
+# TO-DO:
+- Clipboard support!
