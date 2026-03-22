@@ -14,4 +14,7 @@ Make GFN great again!
 
 # V2 Uploaded! Check it out in releases section!
 
-- 22/3/2026 updated: mirror bugs fix and tons of improvement.
+- 22/3/2026 updated: mirror bugs fix and tons of improvement about streaming performance.
+
++ TO-DO:
+ - Clipboard support!
