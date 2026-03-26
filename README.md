@@ -11,6 +11,7 @@ Make GFN great again!
   <img src="Screenshot_2026-03-27-04-50-29-346_com.thuonghai2711.bettergfn.jpg" width="24%" />
   <img src="Screenshot_2026-03-27-04-50-33-751_com.thuonghai2711.bettergfn.jpg" width="24%" />
   <img src="Screenshot_2026-03-27-04-50-39-804_com.thuonghai2711.bettergfn.jpg" width="24%" />
+  <img src="Screenshot_2026-03-27-04-55-08-078_com.thuonghai2711.bettergfn.jpg" width="24%" />
 </p>
 
 # V2 Uploaded! Check it out in releases section!
