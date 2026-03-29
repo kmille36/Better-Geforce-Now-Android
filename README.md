@@ -22,6 +22,5 @@ Make GFN great again!
 # TO-DO:
 - Clipboard support!
 - Lock mouse cursors!
-- Restore Shift keyboard!
 - Virtual Gamepad UI!
 - In-game Vibration!
