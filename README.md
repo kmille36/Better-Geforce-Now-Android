@@ -24,3 +24,4 @@ Make GFN great again!
 - Lock mouse cursors!
 - Restore Shift keyboard!
 - Virtual Gamepad UI!
+- In-game Vibration!
