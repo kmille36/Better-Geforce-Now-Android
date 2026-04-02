@@ -18,6 +18,7 @@ Make GFN great again!
 
 - 22/3/2026 updated: mirror bugs fix and tons of improvement about streaming performance.
 - 25/3/2026 updated: add new feature connect to own PC.
+- 2/4/2026 updated: mirror bugs fixed and mouse lock added for gaming.
 
 # TO-DO:
 - Clipboard support!
